@@ -60,8 +60,19 @@ https://www.amazon.com/DoHome-Compatible-Assistant-Function-Certified/dp/B092VQY
 
 
 ![1](https://user-images.githubusercontent.com/83849573/118636506-5a0cc400-b807-11eb-800d-c19e36e46185.jpg)
+Here are steps of how to connect this mini plug with phone:
 
+Step 1, Download Dohome App on App store, Google Play or or just scan the QR code on the package or user manual.
 
+Step 2, Power on the plug and long press(about 10 seconds) the plug and the Indicator LED blinks.
+
+Step 3: Log in and sign up your DoHome APP and confirm the phone is connected to WiFi(ONLY 2.4G WiFi supported), and click the upper right corner “+” icon in DoHome APP.
+
+Step 4: Select the corresponding WiFi socket device icon and input the router password.
+
+Step 5: Power on the plug and confirm it is in factory mode(LED flash). Then open phone’s WiFi setting and connect the WiFi named “DoHome_***”
+
+Step 6: Return to the DoHome APP and wait the network configuration finishing. Then customize the device name in your convenience and start control.
 
 
 
