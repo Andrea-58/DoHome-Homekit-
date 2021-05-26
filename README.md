@@ -4,7 +4,7 @@ DoHome Smart Things Work with Apple Homekit
 Do you want to enjoy life in an easier and more convenient way? Come on, don’t hesitate to join our DoHome, we have smart plug, smart bulb, and smart led strip lights, start your home automation hands free life from here!
 
 
-DoHome Smart Plug Smart WiFi Outlet Compatible with Amazon Alexa and Google Assistant and Apple Homekit Remote Control Smart Socket with Timer Function No Hub Required ROHS and FCC Certified
+DoHome Smart Plug Smart WiFi Outlet Compatible with Amazon Alexa and Google Assistant and Apple Homekit ROHS and FCC Certified
 
 2.4Ghz WIFI Supported Only
 
@@ -44,18 +44,9 @@ Works with Apple Homekit based on our DoHome APP. After connected the smart plug
 
 ![7](https://user-images.githubusercontent.com/83849573/118636142-f2ef0f80-b806-11eb-8d14-1caab2360982.jpg)
 
-How to control smart plug
-
-Add Device
-Step 1: Log in and sign up your DoHome APP and confirm the phone is connected to WiFi(ONLY 2.4G WiFi supported), and click the upper right corner “+” icon in DoHome APP.
-
-Step 2: Select the corresponding WiFi socket device icon and input the router password.
-
-Step 3: Power on the plug and confirm it is in factory mode(LED flash). Then open phone’s WiFi setting and connect the WiFi named “DoHome_***”
-
-Step 4: Retuen to the DoHome APP and wait the network configuration finishing. Then customize the device name in your convenience and start control.
 
 Here is the link to Amazon:
+
 https://www.amazon.com/DoHome-Compatible-Assistant-Function-Certified/dp/B092VQY6ZD
 
 
